@@ -9,5 +9,6 @@ void main(){
 	printf("Average grade: 95 \n");
 
 	printf("uhhhhhhhhh\n");
+	printf("ahhhhhh\n");
 }
 
